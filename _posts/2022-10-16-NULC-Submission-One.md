@@ -4,7 +4,7 @@ title: "Halted Progress"
 author: "Jacob Mayes"
 categories: NULC Submission, Short Story
 tags: [short_story,history,supernatural]
-image: Transcontinental-Railroad.jpeg
+image: Transcontinental-Railroad.jpg
 ---
 
 # NULC Submission 2022
