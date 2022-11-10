@@ -7,7 +7,7 @@ tags: [essay,heteronormativity,queer-studies]
 image: cuba-1.jpg
 ---
 
-#Bedroom Community and Compulsive Heteronormativity
+# Bedroom Community and Compulsive Heteronormativity
 
 Compulsory heterosexuality and the heteronormative structures in the western world discourage many from exploring their sexual and gender identity beyond the biological and socially accepted identities. This rejection of queer identities and sexual identities that go outside of the heteronormative leads to many issues within American Western culture, where compulsory heterosexuality and heteronormative structures dominate the social landscape. These issues are varied and difficult to number, as the psychological effects of suppressing one’s own desires and identity can be severe, often leading to self-harm and even suicide. This negative feedback because of having a gender identity that does not fall within the norms is becoming increasingly well-explored within popular culture. This is especially so in the case of music, which has had a connection to queer culture and ideologies for decades when considering the contributions of The Village People, Dolly Parton, and Lady Gaga. One recent example of a band that often explores queer themes and they themselves are queer are Glass Beach. Glass Beach is a 4-piece band who’s music is influenced by a plethora of genres such as pop-punk, jazz, and video game soundtracks that result in an amalgamation of sound that is difficult to categorize into one specific genre. Their first studio album released under Run For Cover Records, <i>The First Glass Beach Album</i>, is full of songs whose lyrics directly reference queer experiences, especially in the case of “Bedroom Community”.
 <br />
