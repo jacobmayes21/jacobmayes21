@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "A Queer Look at The First Glass Beach Album"
 author: "Jacob Mayes"
 categories: essay
 tags: [essay,heteronormativity,queer-studies]
