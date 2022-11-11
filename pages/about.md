@@ -22,6 +22,6 @@ My favorite chefs & cooks are Chef Isaac Toupes, Chef David Chang, J. Kenji Lope
 
 
 ---
-2022-10-16-500-days-of-summer.md
+post: 2022-10-16-500-days-of-summer.md
 
 ---
