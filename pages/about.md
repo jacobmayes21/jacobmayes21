@@ -20,4 +20,8 @@ My favorite favorite Mangakas are Tatsuki Fujimoto and Kentaro Mirua.
 
 My favorite chefs & cooks are Chef Isaac Toupes, Chef David Chang, J. Kenji Lopez Alt, & Chef Grant Achatz.
 
+
+---
 2022-10-16-500-days-of-summer.md
+
+---
