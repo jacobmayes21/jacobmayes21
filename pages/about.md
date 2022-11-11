@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about
+post: 2022-10-16-500-days-of-summer.md
 ---
 
 Hello there, I'm Jacob Mayes and I am a student currently attending Idaho State University looking for opportunities to learn new skills and gain experiences in as many fields as I am able. 
@@ -21,7 +22,3 @@ My favorite favorite Mangakas are Tatsuki Fujimoto and Kentaro Mirua.
 My favorite chefs & cooks are Chef Isaac Toupes, Chef David Chang, J. Kenji Lopez Alt, & Chef Grant Achatz.
 
 
----
-post: 2022-10-16-500-days-of-summer.md
-
----
