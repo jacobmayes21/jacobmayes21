@@ -2,8 +2,6 @@
 layout: page
 title: Essays
 permalink: /essays
-
----
 <p>Posts in category "essays" are:</p>
 
 <ul>
@@ -13,6 +11,8 @@ permalink: /essays
     {% endif %}
   {% endfor %}
 </ul>
+
+---
 
 A Queer Look at The First Glass Beach Album
 https://jacobmayes21.github.io/jacobmayes21/bedroom-community-and-compulsive-heteronormativity
