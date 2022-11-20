@@ -2,15 +2,6 @@
 layout: page
 title: Essays
 permalink: /essays
-<p>Posts in category "essays" are:</p>
-
-<ul>
-  {% for post in site.categories.essays %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
 
 ---
 
