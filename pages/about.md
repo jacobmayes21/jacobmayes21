@@ -19,6 +19,11 @@ My favorite painter is Denis Lebeque, specificallly his  _Dreamy Grey_ series an
 
 My favorite favorite Mangakas are Tatsuki Fujimoto and Kentaro Mirua.
 
-My favorite chefs & cooks are Chef Isaac Toupes, Chef David Chang, J. Kenji Lopez Alt, & Chef Grant Achatz.
+My favorite chefs are David Chang, J. Kenji Lopez Alt, & Grant Achatz.
 
+My favorite books are _Dune: Messaiah_ and _Lord of the Rings: The Fellowship of the Ring_. 
+
+My favorite movies are _Inglorious Basterds_, _A Serious Man_, and _Knives Out_. 
+
+My favorite video games are _Disco Elysium_, _Darkest Dungeon_, _Hades_, and _Oxenfree_.
 
